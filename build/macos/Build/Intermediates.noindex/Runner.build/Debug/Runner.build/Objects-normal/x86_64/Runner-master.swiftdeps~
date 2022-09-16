@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "99d4e9e8d04ef0cf1c3e476806eb6a7fb3362de0bc2ce63b6cd04080c2b971c0"
+build_start_time: [1663282366, 547996044]
+build_end_time: [1663282366, 607144832]
+inputs:
+  "/Users/danikaluo/Desktop/School/flutter-todo-app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1663282333, 721691608]
+  "/Users/danikaluo/Desktop/School/flutter-todo-app/macos/Runner/AppDelegate.swift": !private [1663274503, 836469650]
+  "/Users/danikaluo/Desktop/School/flutter-todo-app/macos/Runner/MainFlutterWindow.swift": !private [1663274503, 839182376]
